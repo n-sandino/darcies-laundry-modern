@@ -4,7 +4,6 @@ server/
 # Manus runtime files
 .manus-logs/
 client/public/__manus__/
-patches/
 
 # Local dev
 .env.local
