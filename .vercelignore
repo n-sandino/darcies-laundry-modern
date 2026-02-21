@@ -1,0 +1,10 @@
+# Server (not needed for static deployment)
+server/
+
+# Manus runtime files
+.manus-logs/
+client/public/__manus__/
+patches/
+
+# Local dev
+.env.local
