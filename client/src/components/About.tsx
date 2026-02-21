@@ -27,7 +27,7 @@ export default function About() {
           <div>
             <div className="relative overflow-hidden rounded-lg shadow-lg h-96">
               <img
-                src="https://private-us-east-1.manuscdn.com/sessionFile/LFHPbmgYt9sZwtx87BG5mE/sandbox/eFW14cz0fTPtC6jBqXJXFx-img-5_1771611751000_na1fn_YWJvdXQtc3RvcmUtZnJvbnQ.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80"
+                src="/images/darcies-about.jpg"
                 alt="Darcie's Laundry storefront"
                 className="w-full h-full object-cover"
               />
